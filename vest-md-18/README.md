@@ -21,19 +21,19 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 
 - File: Maryland Election Day Precinct-Level Results
   - Online: [Maryland Board of Elections Link](https://elections.maryland.gov/elections/2018/election_data/index.html)
-  - AWS: `Election_Day`
+  - AWS: `Election_Day`(available upon request)
   - Accessed: 08/16/21
   - Note: These can be downloaded by clicking "General" in the "General" column and "Precinct Results" row.
 
 - File: Maryland Early, Provisional, and Absentee votes
   - Online: [Maryland Board of Elections Link](https://elections.maryland.gov/elections/2018/election_data/index.html)
-  - AWS: `Absentee` 
+  - AWS: `Absentee` (available upon request)
   - Accessed: 08/17/21
   - Note: These files are only available at the county-level and must be downloaded for each county. To do so, click "General" in the "General" column and "County Results" row for each county.
     
 - File: Maryland Precinct Shapefile
   - Online: [Maryland Department of Planning Link](https://planning.maryland.gov/Redistricting/Pages/2010/precinct.aspx)
-  - AWS:`Shapefile`
+  - AWS:`Shapefile`(available upon request)
   - Accessed: 08/18/21
   - Note: Maryland lists this as a 2010 precinct shapefile. We contacted the Department of Planning to see if there were any more recent shapefiles available and will update this as necessary.
 
