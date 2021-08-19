@@ -31,7 +31,7 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
   - Accessed: 08/17/21
   - Note: These files are only available at the county-level and must be downloaded for each county. To do so, click "General" in the "General" column and "County Results" row for each county.
     
-- File: Maryland Election Day Precinct-Level Results
+- File: Maryland Precinct Shapefile
   - Online: [Maryland Department of Planning Link](https://planning.maryland.gov/Redistricting/Pages/2010/precinct.aspx)
   - AWS:`Shapefile`
   - Accessed: 08/18/21
