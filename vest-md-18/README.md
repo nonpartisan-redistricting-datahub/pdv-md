@@ -35,7 +35,7 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
   - Online: [Maryland Department of Planning Link](https://planning.maryland.gov/Redistricting/Pages/2010/precinct.aspx)
   - AWS:`Shapefile`(available upon request)
   - Accessed: 08/18/21
-  - Note: Maryland lists this as a 2010 precinct shapefile. We contacted the Department of Planning to see if there were any more recent shapefiles available and will update this as necessary.
+  - Note: Maryland lists this as a 2010 precinct shapefile. We contacted the Department of Planning and they responded that this was the current shapefile.
 
 
 ## File processing
