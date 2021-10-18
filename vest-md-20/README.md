@@ -1,1 +1,36 @@
+# vest-md-2020
 
+Our final validation report for this dataset is available [here](hhttps://redistrictingdatahub.org/dataset/vest-2020-maryland-precinct-and-election-results/).
+
+We do not have the raw data sources available on this Github due to file constraints, but we are happy to share them if needed. 
+
+Please reach out to info@redistrictingdatahub.org to reach our support team if you have any questions.
+
+## **Raw from source:**
+- File: VEST MD 20 data file
+  - Online: [Harvard Dataverse Link](https://dataverse.harvard.edu/file.xhtml?fileId=5111331&version=21.0)
+  - Accessed: 10/18/21
+
+- File: VEST MD 20 documentation file
+  - Online: [Harvard Dataverse Link](https://dataverse.harvard.edu/file.xhtml?fileId=5206372&version=21.0)
+  - Accessed: 10/18/21
+
+- File: Maryland Election Day Precinct-Level Results
+  - Online: [Maryland Board of Elections Link](https://elections.maryland.gov/elections/2018/election_data/index.html)
+  - Accessed: 08/16/21
+  - Note: These can be downloaded by clicking "General" in the "General" column and "Precinct Results" row.
+
+- File: Maryland Early, Provisional, and Absentee votes
+  - Online: [Maryland Board of Elections Link](https://elections.maryland.gov/elections/2018/election_data/index.html)
+  - Accessed: 08/17/21
+  - Note: These files are only available at the county-level and must be downloaded for each county. To do so, click "General" in the "General" column and "County Results" row for each county.
+    
+- File: Maryland Precinct Shapefile
+  - Online: [Maryland Department of Planning Link](https://planning.maryland.gov/Redistricting/Pages/2010/precinct.aspx)
+  - Accessed: 08/18/21
+  - Note: Maryland lists this as a 2010 precinct shapefile. We contacted the Department of Planning and they responded that this was the current shapefile.
+
+
+## File processing
+
+- `vest-md-2018-validation.ipynb` - documentation in markdown cells and comments
