@@ -16,9 +16,9 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
   - Accessed: 10/18/21
 
 - File: Maryland Election Day Precinct-Level Results
-  - Online: [Maryland Board of Elections Link](https://elections.maryland.gov/elections/2018/election_data/index.html)
+  - Online: [Maryland Board of Elections Link](https://elections.maryland.gov/elections/2020/election_data/index.html)
   - Accessed: 08/16/21
-  - Note: These can be downloaded by clicking "General" in the "General" column and "Precinct Results" row.
+  - Note: These can be downloaded by clicking "General" in the "General" column and "By Precinct" row.
 
 - File: Maryland Early, Provisional, and Absentee votes
   - Online: [Maryland Board of Elections Link](https://elections.maryland.gov/elections/2018/election_data/index.html)
