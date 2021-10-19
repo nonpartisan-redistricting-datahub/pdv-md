@@ -25,11 +25,6 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
   - Accessed: 10/19/21
   - Note: Maryland lists this as a 2010 precinct shapefile. We contacted the Department of Planning and they responded that this was the current shapefile.
 
-- Maryland Precinct Shapefile
-  - Online: [Maryland Department of Planning Link](https://planning.maryland.gov/Redistricting/Pages/2010/precinct.aspx)
-  - Accessed: 10/19/21
-  - Note: Maryland lists this as a 2010 precinct shapefile. We contacted the Department of Planning and they responded that this was the current shapefile.
-
 - Allegany County Precinct Map
   - Online: [Allegany County Link](https://alleganygov.org/166/Maps-Documents)
   - Accessed: 10/19/21  
